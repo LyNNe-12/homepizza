@@ -1,0 +1,27 @@
+*{
+	text-align: center;
+}
+h1{
+	font-family: 'Montserrat', sans-serif;
+	color: red;
+}
+table{
+	margin: 0 auto;
+}
+p{
+	font-family: 'Roboto', sans-serif;
+	color: blue;
+}
+img{
+	transition: all 0.6s;
+}
+img:hover{
+	width: 450px;
+}
+a{
+	transition: all 0.6s;
+}
+a:hover{
+	font-size: 17px;
+	opacity: 0.7;
+}
